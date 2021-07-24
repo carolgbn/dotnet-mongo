@@ -1,0 +1,7 @@
+C:\Users\Ana\source\repos\dotnet-mongo-api\obj\Debug\net5.0\dotnet-mongo-api.csproj.AssemblyReference.cache
+C:\Users\Ana\source\repos\dotnet-mongo-api\obj\Debug\net5.0\dotnet-mongo-api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ana\source\repos\dotnet-mongo-api\obj\Debug\net5.0\dotnet-mongo-api.AssemblyInfoInputs.cache
+C:\Users\Ana\source\repos\dotnet-mongo-api\obj\Debug\net5.0\dotnet-mongo-api.AssemblyInfo.cs
+C:\Users\Ana\source\repos\dotnet-mongo-api\obj\Debug\net5.0\dotnet-mongo-api.csproj.CoreCompileInputs.cache
+C:\Users\Ana\source\repos\dotnet-mongo-api\obj\Debug\net5.0\dotnet-mongo-api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Ana\source\repos\dotnet-mongo-api\obj\Debug\net5.0\dotnet-mongo-api.MvcApplicationPartsAssemblyInfo.cache
